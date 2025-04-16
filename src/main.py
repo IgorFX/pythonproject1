@@ -1,7 +1,7 @@
 from masks import get_mask_account, get_mask_card_number
 from widget import get_date, mask_account_card
 
-acc_num = 73654108430135874305
+acc_num = 73654103330135874305
 card_num = 1234567812345678
 
 check_data = "2024-03-11T02:26:18.671407"
