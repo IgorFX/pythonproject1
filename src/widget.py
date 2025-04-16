@@ -26,6 +26,6 @@ def get_date(date: str) -> str:
     day = clear_date[2]
     month = clear_date[1]
     year = clear_date[0]
-    new_data = f"{day}.{month}.{year}"
+    new_date = f"{day}.{month}.{year}"
 
-    return new_data
+    return new_date
